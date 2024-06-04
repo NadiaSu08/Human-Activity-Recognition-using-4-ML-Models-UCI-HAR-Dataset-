@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-4-ML-Models-UCI-HAR-Dataset-
